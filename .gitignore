@@ -1,3 +1,7 @@
+# Ignore heavy dependencies in both apps
+node_modules/
+**/node_modules/
+
 # Ignore Firebase secret admin key
 serviceAccountKey.json
 serviceAccountKey*.json
