@@ -1,0 +1,7 @@
+# Ignore Firebase secret admin key
+serviceAccountKey.json
+serviceAccountKey*.json
+
+# Ignore build output folders
+dist/
+build/
